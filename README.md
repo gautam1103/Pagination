@@ -1,6 +1,5 @@
 
 
-```markdown
 # Product Pagination Application
 
 This project demonstrates a simple React application that fetches a list of products from an external API and displays them with pagination functionality. It dynamically fetches, renders, and paginates product data using React hooks like `useState` and `useEffect`.
@@ -27,7 +26,7 @@ This project demonstrates a simple React application that fetches a list of prod
    ```bash
    git clone https://github.com/your-repo-name.git
    cd your-repo-name
-   ```
+   
 
 2. **Install Dependencies**  
    Install the required dependencies using npm or yarn:
@@ -153,4 +152,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ```
 
-Let me know if you'd like to include anything specific or make adjustments!
